@@ -1,0 +1,30 @@
+body{
+	background-color: 0a3d62;}
+.container{
+	 width: 100%; text-align: center; margin: auto;
+}
+.dice{
+	 text-align: center;
+	display: inline-block;
+}
+h1{
+	margin: 20px;
+	text-shadow: 5px 5px white;
+	font-size: 6rem;
+	color: #f6b93b;
+}
+p{
+	font-size: 2rem;
+	text-shadow: 1px 1px white;
+	color: #00b894;
+
+} 
+button{
+	background-color: #00b894;
+	color: white;
+	padding: 2px;
+	border: none;
+}
+img{
+	width: 65%;
+}
